@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"Q2,Q4,Q3,Q1";"SOT-23-3";4;"NMOS-SOT-23-3";;;
+2;"R8,R2,R5,R6,R1,R3,R4,R7";"0603R";8;"10k";;;
+3;",,,,,,,,,,,,,";"buzzardLabel";14;"";;;
+4;"G***";"Logo-Back-SolderedFULL-10mm";1;"LOGO";;;
+5;"H2,H1";"HOLE_3.2mm";2;"HOLE_3.2mm";;;
+6;"G***";"Logo-Front-Soldered-3mm";1;"LOGO";;;
+7;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+8;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+9;"";"Version1.0.0.";1;"";;;
+10;"K2,K1";"HEADER_MALE_6X1";2;"HEADER_MALE_6X1";;;
